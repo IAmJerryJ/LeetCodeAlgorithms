@@ -16,5 +16,5 @@ class Solution{
     }
 }
 
-//Time 1 ms, Beat 99.42%
-//Memory 41.2 MB, Beat 64.25%
+//Time 1 ms, Beat 99.42%, O(N)
+//Memory 41.2 MB, Beat 64.25%, O(N)
