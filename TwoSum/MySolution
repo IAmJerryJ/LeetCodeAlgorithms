@@ -17,5 +17,5 @@ class Solution {
 }
 
 //Pass 
-//Time 54 ms, Beat 26.84% users
-//Memory cost 41.2 MB, Beat 65.25% users
+//Time 54 ms, Beat 26.84% users, O(N^2)
+//Memory cost 41.2 MB, Beat 65.25% users, O(1)
